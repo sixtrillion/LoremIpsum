@@ -78,7 +78,7 @@ class Generator
     'lucky',      'glorious',      'day',            'change',
     'state',      'aircrash',      'lake',           'superhero',
     'edge',       'standing',      'are',            'time',
-    'i',          'me',            'name',           'him',
+    'I',          'me',            'name',           'him',
     'could',      'tourist',       'ghost',          'slow',
     'idiot',      'sparks',        'see',            'flowing',
     'barks',      'dog',           'else',           'know',
