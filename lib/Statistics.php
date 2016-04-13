@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Badcow\LoremIpsum;
+namespace sixtrillion\LoremIpsum;
 
 class Statistics
 {
